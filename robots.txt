@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azupeovo.github.io/Zse/sitemap_index.txt
+Sitemap: https://azupeovo.github.io/fMP/sitemap_index.txt
+Sitemap: https://azupeovo.github.io/gjq/sitemap_index.txt
+Sitemap: https://azupeovo.github.io/hBc/sitemap_index.txt
